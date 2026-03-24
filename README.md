@@ -1,17 +1,17 @@
 # Hi, I'm Richard Yashiro 👋
 ### Middle Frontend Developer | React & TypeScript Expert
 
-I build scalable, high-performance web interfaces with a focus on **Clean Architecture**, **BEM**, and **Minimalist Design**.
+I specialize in building clean, scalable interfaces with a focus on **BEM**, **Minimalist Design**, and **Clean Architecture**. With 4+ years of commercial experience and 100+ projects delivered, I focus on delivering high-quality web solutions.
 
 ---
 
 ### 🛠 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
   <br/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white" />
@@ -26,21 +26,22 @@ I build scalable, high-performance web interfaces with a focus on **Clean Archit
 
 ---
 
-### 🚀 Projects & Experience
+### 🚀 Key Projects
 
 * **[PS Store Tracker]** — Fullstack system for monitoring game prices. 
-  * *Next.js, Node.js, Prisma, TypeScript.*
-* **[Notes PWA]** — Offline-first markdown notes with custom Sidebar. 
-  * *React, Service Workers, PWA, Vitest.*
+  * *Stack:* Next.js, Node.js, Prisma, TypeScript.
+* **[Notes PWA]** — Offline-first markdown notes with custom Sidebar architecture. 
+  * *Stack:* React, Service Workers, PWA, Vitest.
 * **[Commercial Work]** — 100+ production projects delivered. 
-  * *Optimization, BEM architecture, IndexedDB integration.*
+  * *Focus:* Performance optimization, BEM architecture, IndexedDB integration.
 
 ---
 
-### 📊 Professional Stats
+### 📊 GitHub Statistics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RichrdYashiro&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&text_color=555&icon_color=007AFF&include_all_commits=true&count_private=true" alt="Overall Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichrdYashiro&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=555" alt="Top Languages" height="180px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichrdYashiro&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&text_color=555&icon_color=007AFF&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichrdYashiro&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=555&hide=c%23,jupyter%20notebook" />
 </p>
 
 <p align="left">
@@ -49,10 +50,10 @@ I build scalable, high-performance web interfaces with a focus on **Clean Archit
 
 ---
 
-### 📫 Contact Me
+### 📫 Reach Out
 
 * **Location:** Krasnodar, Russia 📍
 * **Email:** [aisakataigak@mail.ru](mailto:aisakataigak@mail.ru)
 
 ---
-<p align="center"><i>"Code is poetry."</i></p>
+<p align="center"><i>"Simplicity is the soul of efficiency."</i></p>
