@@ -46,7 +46,7 @@ I specialize in building clean, scalable interfaces with a focus on **BEM**, **M
 ### 📊 GitHub Activity & Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichrdYashiro&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&text_color=555&icon_color=007AFF&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichrdYashiro&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=555&hide=c%23,jupyter%20notebook" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichrdYashiro&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=555&hide=hlsl,shaderlab,glsl,c%23" />
 </p>
 
 ---
