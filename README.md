@@ -1,5 +1,5 @@
 # Hi, I'm Richard Yashiro 👋
-### Middle Frontend Developer | React & TypeScript Expert
+### Middle Frontend Developer
 
 I specialize in building clean, scalable interfaces with a focus on **BEM**, **Minimalist Design**, and **Clean Architecture**. With 4+ years of commercial experience and 100+ projects delivered, I focus on delivering high-quality web solutions.
 
